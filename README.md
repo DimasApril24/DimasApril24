@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./dimasa-ai-banner.png" width="100%" alt="Dimas Apriliawan Safari - DIMASA AI Banner"/>
+</p>
+
+
 # Hi, I'm Dimas Apriliawan Safari 👋
 
 ### Artificial Intelligence & Innovation | Informatics Graduate
