@@ -110,26 +110,9 @@ I am continuously expanding my knowledge in:
 
 ## 📜 Certifications & Professional Credentials
 
-### 🤖 Artificial Intelligence & Machine Learning
+13 professional credentials across AI, Machine Learning, Cloud Computing, Software Engineering, and Data Analytics.
 
-- [Generative AI Fundamentals](https://www.skills.google/public_profiles/0b865396-4a38-426c-986a-8e6b674b92c1/badges/7985244) — Google
-- [Google Cloud Big Data and Machine Learning Fundamentals](https://drive.google.com/file/d/1XdtUgEAvp6t9pVHQuYkfE_zpnrhiVOqJ/view) — Google
-
-### ☁️ Cloud Computing
-
-- [Google Cloud Fundamentals: Core Infrastructure](https://drive.google.com/file/d/1gFf0f78a7Ho19RxQMHceByR8oEn1-frk/view) — Google
-- [Level 1: Google Cloud Console](https://www.skills.google/public_profiles/0b865396-4a38-426c-986a-8e6b674b92c1/badges/8176258) — Google
-- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/GRX5ON3E3P0M) — Dicoding Academy
-
-### 💻 Software Engineering
-
-- [Spec-Driven Development dengan Kiro](https://www.dicoding.com/certificates/NVP7W5764ZR0) — Dicoding Academy
-
-### 📊 Data Intelligence
-
-- [Data Analytics for Business](https://drive.google.com/file/d/1pHJXDRVM-AIlMprpwLp2fJ_Wak9BOlSc/view) — Digital Talent Scholarship
-
----
+📂 [Explore All Certifications & Credentials](https://github.com/DimasApril24/DimasApril24/blob/main/CERTIFICATIONS.md)
 
 <p align="center">
   <i>Continuous Learning. Practical Skills. Meaningful Innovation.</i>
