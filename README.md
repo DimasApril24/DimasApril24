@@ -1,7 +1,10 @@
 
 <p align="center">
-  <img src="./dimasa-ai-banner.png" width="100%" alt="Dimas Apriliawan Safari - DIMASA AI Banner"/>
+  <img src="./DIMASA%20AI_%20Where%20Hope%20Meets%20Intelligence.png"
+       width="100%"
+       alt="Dimas Apriliawan Safari - DIMASA AI Banner"/>
 </p>
+
 
 
 # Hi, I'm Dimas Apriliawan Safari 👋
