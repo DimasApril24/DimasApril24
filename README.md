@@ -113,6 +113,28 @@ More certifications and professional learning achievements will be added as I co
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DimasApril24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasApril24&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DimasApril24&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 ## 📫 Connect With Me
 
 - **GitHub:** [@DimasApril24](https://github.com/DimasApril24)
